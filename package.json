@@ -1,0 +1,15 @@
+{
+  "name": "scaling-couscous",
+  "version": "1.0.0",
+  "description": "A 3D website project.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  },
+  "license": "MIT"
+}
